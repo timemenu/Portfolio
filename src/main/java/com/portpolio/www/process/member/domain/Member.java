@@ -55,5 +55,4 @@ public class Member {
 	public String toString() {
 		return new ToStringBuilder(this).reflectionToString(this, ToStringStyle.MULTI_LINE_STYLE);
 	}
-	
 }
