@@ -1,4 +1,4 @@
-package com.portpolio.www.process.member.domain;
+package com.portfolio.www.process.member.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

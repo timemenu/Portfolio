@@ -1,12 +1,12 @@
-package com.portpolio.www;
+package com.portfolio.www;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PortpolioApplication {
+public class PortfolioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PortpolioApplication.class, args);
+		SpringApplication.run(PortfolioApplication.class, args);
 	}
 }

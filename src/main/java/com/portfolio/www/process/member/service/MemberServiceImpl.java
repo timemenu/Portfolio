@@ -1,4 +1,4 @@
-package com.portpolio.www.process.member.service;
+package com.portfolio.www.process.member.service;
 
 import org.springframework.stereotype.Service;
 
